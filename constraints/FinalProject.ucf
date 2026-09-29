@@ -1,0 +1,50 @@
+
+
+NET "inst[7]" LOC = P130;
+NET "inst[6]" LOC = P129;
+NET "inst[5]" LOC = P127;
+NET "inst[4]" LOC = P126;
+NET "inst[3]" LOC = P125;
+NET "inst[2]" LOC = P124;
+NET "inst[1]" LOC = P121;
+NET "inst[0]" LOC = P120;
+NET "pc[7]" LOC = P105;
+NET "pc[6]" LOC = P104;
+NET "pc[5]" LOC = P103;
+NET "pc[4]" LOC = P102;
+NET "pc[3]" LOC = P101;
+NET "pc[2]" LOC = P99;
+NET "pc[1]" LOC = P98;
+NET "pc[0]" LOC = P96;
+NET "Seg2[0]" LOC = P3;
+NET "Seg2[1]" LOC = P4;
+NET "Seg2[2]" LOC = P5;
+NET "Seg2[3]" LOC = P6;
+NET "Seg2[4]" LOC = P7;
+NET "Seg2[5]" LOC = P8;
+NET "Seg2[6]" LOC = P10;
+NET "Seg1[0]" LOC = P11;
+NET "Seg1[1]" LOC = P12;
+NET "Seg1[2]" LOC = P13;
+NET "Seg1[3]" LOC = P15;
+NET "Seg1[4]" LOC = P16;
+NET "Seg1[5]" LOC = P18;
+NET "Seg1[6]" LOC = P19;
+NET "clk" LOC = P57;
+NET "reset" LOC = P54;
+
+# PlanAhead Generated physical constraints 
+
+NET "exSeg1[6]" LOC = P20;
+NET "exSeg1[5]" LOC = P21;
+NET "exSeg1[4]" LOC = P24;
+NET "exSeg1[3]" LOC = P25;
+NET "exSeg1[2]" LOC = P27;
+NET "exSeg1[1]" LOC = P28;
+NET "exSeg1[0]" LOC = P29;
+NET "exSeg2[6]" LOC = P55;
+NET "exSeg2[5]" LOC = P58;
+NET "exSeg2[4]" LOC = P59;
+NET "exSeg2[3]" LOC = P60;
+NET "exSeg2[2]" LOC = P62;
+NET "exSeg2[1]" LOC = P63;

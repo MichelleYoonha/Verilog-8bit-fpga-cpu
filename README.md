@@ -1,8 +1,8 @@
 # 8-Bit Verilog Processor on FPGA
 
-An educational 8-bit processor implemented in Verilog, simulated and synthesized in Xilinx ISE, and validated on an FPGA board. The processor executes a compact custom instruction set with `ADD`, `LOAD`, `STORE`, and PC-relative `JUMP` operations.
+An 8-bit processor implemented in Verilog, simulated and synthesized in Xilinx ISE, and validated on an FPGA board. The processor executes a compact custom instruction set with `ADD`, `LOAD`, `STORE`, and PC-relative `JUMP` operations.
 
-This was developed as a team final project for the Spring 2025 Logic Design course at Seoul National University. Starting from a course-provided datapath specification, our team implemented and integrated the RTL modules, debugged the complete system, and verified its behavior in simulation and on hardware.
+This was developed as a team(이중호, 이윤하, 최영한, 홍지민) final project for the Spring 2025 Logic Design course at Seoul National University. Starting from a course-provided datapath specification, our team implemented and integrated the RTL modules, debugged the complete system, and verified its behavior in simulation and on hardware.
 
 ## What We Built
 
